@@ -1,0 +1,426 @@
+{
+    "public_identifier": "siddharthmaity",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/siddharthmaity/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240427%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240427T194520Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9e0a475d03c61f8411e1fbe08a926347d0ede0d2a7048c5be2b1b588ee8a4d9f",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/siddharthmaity/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240427%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240427T194520Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=72f81c653e96e3f96f2fc575345ba96243c7947a72e57e39824f11a206c67526",
+    "first_name": "Siddharth",
+    "last_name": "Maity",
+    "full_name": "Siddharth Maity",
+    "follower_count": null,
+    "occupation": "Data Intelligence Manager at CafeMedia",
+    "headline": "Data Intelligence - CafeMedia",
+    "summary": "\u2022 Solutions-driven Data Analytics Professional with 7 plus years of experience in building Analytics/Business Intelligence solutions.\n\u2022 Proven ability to create valuable transformative business strategies and impactful insights through measurement, manipulation, dissemination, transformation, and reporting of broad sets of data using an array of data analytics tools and frameworks. \n\u2022 Highly skilled in articulating narrative in a data-set using skills of data exploration, statistical inference, and visualization.\n\u2022 Well-versed in using an analytical and cross-functional mindset needed in managing multiple stakeholders and client relations.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Washington DC-Baltimore Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": null,
+            "company": "CafeMedia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cafemedia",
+            "company_facebook_profile_url": null,
+            "title": "Data Intelligence Manager",
+            "description": null,
+            "location": "Washington D.C. Metro Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFr5f1bWaEZGw/company-logo_100_100/0/1628010835827?e=1654732800&v=beta&t=kVq-Y3q241rDElqtvgBuvMZgq_rzrvUskiUpiN8S8yA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2019
+            },
+            "company": "comScore, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/comscore",
+            "company_facebook_profile_url": null,
+            "title": "Data Analyst",
+            "description": "\u2022 Key player in Video Analytics team building analytical frameworks to enhance audience measurement and reporting at scale.\n\u2022 Accomplished a 26% YoY improvement in Digital Video reporting timelines through multiple data integration and process automation initiatives and developed anomaly detection models to enhance accuracy of reporting metrics in 28 countries.\n\u2022 Developed multiple data-driven decision models and digital video consumption profiles through complex PostgreSQL querying and data manipulation using Python to augment reporting on digital video landscape, market trends and key metrics.\n\u2022 Produced visualization dashboards using Tableau and QlikView to deliver impactful insights on audience behavior of digital media consumption across multiple platforms and geographies, thereby providing higher ROI to content owners and publishers.\n\u2022 Designed methodologies to account for upstream collection issues and devised big data scaling strategies by synthesizing data from ad servers, panel meters, and URL streams on Hadoop using big data tools such as PySpark, SparkSQL, Pig and Hive.\n\u2022 Automated legacy processes and enhanced demographic profiling through ETL pipelines, chaining pgSQL, Python scripts in Borg to capture entity specific tag drops at initial stages thereby assuring monthly production turnaround times are optimized.\n\u2022 Served as a liaison between Engineering, Analytics, Production & Delivery, Client Insights, and Operations in cross-functional projects to create analytical products and drive efficient decision making at scale.\n\u2022 Contributed to the overall company\u2019s data/analytics strategies by supporting cross-training and knowledge sharing, thought leadership as well as encouraging data-driven decision-making process.",
+            "location": "Washington D.C. Metro Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQZVuPTO3KZQ/company-logo_100_100/0/1625242073140?e=1654732800&v=beta&t=4mQBGsE0MaIhGXTQGwUyth6cYtKoiB3UzTNVMPw0IDo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "Logistics Capital & Strategy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/logistics-capital-&-strategy",
+            "company_facebook_profile_url": null,
+            "title": "Data Analyst",
+            "description": "\u2022 Developed Air Cargo scheduling models for UPS Global Freight Forwarding operations, involving complex data transformation in SQL Server and application into Quantrix Modeler, Python and Tableau for data assessment, visualization and insights.\n\u2022 Manipulated and analyzed high-volume, high-dimensionality data from varying market sources using a variety of data analytics tools and techniques in R Programming to develop market sizing models for UPS\u2019s Mexico trans-border segment strategy.\n\u2022 Empowered stakeholders at DFW Airport Authority to make data-driven optimal cargo warehousing decisions by developing multiple cargo market penetration models using T-SQL, Python (Pandas, Numpy, Seaborn, Plotly etc.), and Tableau.\n\u2022 Analyzed existing fleet characteristics and operational metrics to develop financial models in Quantrix linked with Periscope for reporting complex financial metrics, utilized to submit a multi-million dollar bid for Commonwealth Express Trucking.\n\u2022 Conducted data mining, EDA, statistical analysis, and time-series forecasting using R, Python and Tableau to develop profit estimation, market attractiveness vs. ability to impact models for a private equity firm investing in ground handling companies.\n\u2022 Established cost optimization and targeted pricing models in Python and Tableau by transforming data from multiple external sources into insights to recommend optimal solutions leading to operational efficiencies for clients in transportation industry.\n\u2022 Validated project proposals, estimated project timelines and costs, developed presentation decks, and provided clients with training on usage of business intelligence tools and visualization dashboards developed to assist with business development.",
+            "location": "Washington D.C. Metro Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF0CPRNNX0L0Q/company-logo_100_100/0/1519864084043?e=1654732800&v=beta&t=EPUYbocpUozPOv8haVGtGVrN8q6AYKLtRxURHksXnWk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2014
+            },
+            "company": "U.S. Pharmacopeia",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/uspharmacopeia",
+            "company_facebook_profile_url": null,
+            "title": "Business Assessment Analyst",
+            "description": "\u2022 Responsible for providing analytic and reporting services in support of all revenue-generating business lines for USP.\n\u2022 Performed pricing analysis, product market forecast modeling, and structured USP\u2019s 3000+ items in Python and Advanced Excel to measure effectiveness of price changes and recommended corrective action for approval by USP Pricing Committee.\n\u2022 Prepared reports for management highlighting operational/financial performance metrics, historical results, forecasts, and trends. \n\u2022 Highly involved in activities related to analyzing sales data, operational analysis, monthly closing, data processing, codification, product-market assessments, revenue forecasting, standard setting procedures, and development of custom business solutions.\n\u2022 Subject matter expert in setting up self-service BI analysis tools and providing effective training to globally located end users.",
+            "location": "Washington D.C. Metro Area",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEXPV0sDaF1Zg/company-logo_100_100/0/1625600751637?e=1654732800&v=beta&t=fk-PGRTbHqmCf9N35DSpdr_bhO2OEN34oMbhdvlHhqo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2008
+            },
+            "company": "BORKAR & MUZUMDAR",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/borkar-&-muzumdar",
+            "company_facebook_profile_url": null,
+            "title": "Finance Associate",
+            "description": "\u2022 Worked closely with project business sponsors to develop Vision and Scope Document, Business Requirements and Functional Requirements that support the strategic and tactical initiatives as driven by the business project priorities.\n\u2022 Performed Risk Analysis and Validation in Primavera to provide quick solutions to handle unprecedented requests from clients.",
+            "location": "Mumbai Area, India",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGGTPz8MtmTxA/company-logo_100_100/0/1519900948117?e=1654732800&v=beta&t=jSwzSQGwagzSlSX84BiMTxWti8ulrloH2FKX7t4uOY4"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Operations Management, Business Analytics",
+            "degree_name": "Master of Business Administration (MBA)",
+            "school": "The George Washington University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/george-washington-university/",
+            "school_facebook_profile_url": null,
+            "description": "\u2022Business Analytics Certificate.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFSVBibNbqMQA/company-logo_100_100/0/1633354278195?e=1654732800&v=beta&t=mRp38eAv_uHxB3e4JwoCA-bFdxyL9VanWd-I4uPEAdk",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Industrial Engineering",
+            "degree_name": "Master of Science (M.S.)",
+            "school": "University of Louisville",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-louisville/",
+            "school_facebook_profile_url": null,
+            "description": "\u2022Awarded 100% merit based scholarship. \n\u2022Graduate teaching assistant \u2013 Operations Research Methods, Project Management and Engineering Statistics.",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEiVjfYfFmwXQ/company-logo_100_100/0/1595526055958?e=1654732800&v=beta&t=9MpwgZ2O4xYG8wN0T130ARF1OjPA8HeYgMQXtKRtEN4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2006
+            },
+            "field_of_study": "Chemical Engineering",
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "school": "University of Mumbai",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-mumbai/",
+            "school_facebook_profile_url": null,
+            "description": "Thadomal Shahani Engineering College",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGsu_DimiqUow/company-logo_100_100/0/1519905080435?e=1654732800&v=beta&t=zUFyUw2qBdRQf92TKS4sq67Fn1j4WKOyu5TUC0hv3IQ",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Advanced Manufacturing Methods",
+            "number": "-"
+        },
+        {
+            "name": "Decision Making Analysis",
+            "number": "-"
+        },
+        {
+            "name": "Engineering Statistics",
+            "number": "-"
+        },
+        {
+            "name": "Models of Logisitics Systems",
+            "number": "-"
+        },
+        {
+            "name": "Occupational Ergonomics",
+            "number": "-"
+        },
+        {
+            "name": "Operations Management",
+            "number": "-"
+        },
+        {
+            "name": "Operations Research Methods",
+            "number": "-"
+        },
+        {
+            "name": "Project Management",
+            "number": "-"
+        },
+        {
+            "name": "Simulation",
+            "number": "-"
+        },
+        {
+            "name": "Sustainability Enhancement",
+            "number": "-"
+        },
+        {
+            "name": "Applied Database & Web Analytics",
+            "number": "-"
+        },
+        {
+            "name": "Data Mining",
+            "number": "-"
+        },
+        {
+            "name": "Decision Models for Analytics",
+            "number": "-"
+        },
+        {
+            "name": "Executive Decision Making",
+            "number": "-"
+        },
+        {
+            "name": "Forecasting Models for Analytics",
+            "number": "-"
+        },
+        {
+            "name": "Planning & Scheduling",
+            "number": "-"
+        },
+        {
+            "name": "Pricing & Revenue Management",
+            "number": "-"
+        },
+        {
+            "name": "Project Portfolio Management",
+            "number": "-"
+        },
+        {
+            "name": "Supply Chain Risk Analytics",
+            "number": "-"
+        },
+        {
+            "name": "Sustainable Supply Chains",
+            "number": "-"
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "title": "MASTER OF SCIENCE PROJECT",
+            "description": "\u2022Developed working model for manufacturing Pentaerythritol. Evaluated thermodynamic feasibility, material & energy balance, equipment design and instrumental process control involved.\n\u2022Examined factors impacting site selection & plant layout, services & utilities, profitability and cost of the project.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2013
+            },
+            "ends_at": null,
+            "name": "Certificate in Business Analytics & Decision Sciences",
+            "license_number": null,
+            "display_source": null,
+            "authority": "The George Washington University",
+            "url": null
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "This is deep! \ud83d\ude4c",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Siddharth Maity"
+        },
+        {
+            "title": "35 of our next-line leaders came together and formulated the path ahead through a 2-day Design Thinking workshop.#vision2025 #oneness",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Siddharth Maity"
+        },
+        {
+            "title": "CafeMedia is now the 9th largest web property on the internet! \ud83d\ude80Moving up on Comscore's list of the top-visited web properties means more\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Siddharth Maity"
+        },
+        {
+            "title": "iNeuron Launched Oneneuron OTT Platform For Education",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Siddharth Maity"
+        },
+        {
+            "title": "What are some of the most common mistakes when it comes to content creation?  When asked about the most common SEO mistakes creators are making\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Siddharth Maity"
+        },
+        {
+            "title": "Finally had a chance to refresh my personal site over the holidays! Having my own site has always been something I've wanted, even as a kid, and\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Siddharth Maity"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Siddharth Maity",
+            "link": "https://in.linkedin.com/in/siddharth-maity-a99b49226",
+            "summary": "Affiliate Manager at Traffic company",
+            "location": "Asansol"
+        },
+        {
+            "name": "Siddharth Maity",
+            "link": "https://in.linkedin.com/in/siddharth-maity-3697bb228",
+            "summary": "DIGITAL MARKETER | FREELANCER | I help people to make money online 20k to 30k per month . Whatsapp me-9778132105",
+            "location": "Mumbai"
+        },
+        {
+            "name": "Siddharth Maity",
+            "link": "https://in.linkedin.com/in/siddharth-maity-1a230148",
+            "summary": "--",
+            "location": "Jaipur"
+        },
+        {
+            "name": "siddharth maity",
+            "link": "https://in.linkedin.com/in/siddharth-maity-5a7b591ba",
+            "summary": "Student at NMIMS SPPSTM",
+            "location": "Mumbai"
+        },
+        {
+            "name": "Siddharth Maity",
+            "link": "https://in.linkedin.com/in/siddharth-maity-22b90156",
+            "summary": "Qodenext India Pvt.Ltd.",
+            "location": "Noida"
+        },
+        {
+            "name": "Siddharth Senger",
+            "link": "https://in.linkedin.com/in/siddharth-senger-3697bb228",
+            "summary": "DIGITAL MARKETER | FREELANCER | I help people to make money online 20k to 30k per month . Whatsapp me-9778132105",
+            "location": "Mumbai"
+        },
+        {
+            "name": "Siddharth Maity",
+            "link": "https://in.linkedin.com/in/siddharth-maity-483216200",
+            "summary": "Student at Sandip institute of pharmaceutical sciences",
+            "location": "Mumbai"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHjlXSoSscHog/group-logo_image-shrink_200x200/0/1631360837615?e=1646809200&v=beta&t=p6ZNhrH9xl9RzM1xZnRNkATyo9M5GMq5G5F0LpOSe0s",
+            "name": "H1B Jobs",
+            "url": "https://www.linkedin.com/groups/1091217"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4E07AQFg8h3HprZzwg/group-logo_image-shrink_200x200/0/1631003073827?e=1646809200&v=beta&t=213A1Np5MUihITT8WF9bJJK1o-RBINqAtdweYS-XsTk",
+            "name": "Operations Management in Practice",
+            "url": "https://www.linkedin.com/groups/3741304"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQGuh3XADNUoWg/group-logo_image-shrink_200x200/0/1631376387352?e=1646809200&v=beta&t=8k6Uke2M5vWncbvNowjhIibsf1jTSYkHkQT8mo6U51Q",
+            "name": "Job Openings for OPT/CPT Students - North America",
+            "url": "https://www.linkedin.com/groups/2757064"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQFrVBSGKF5nGA/group-logo_image-shrink_200x200/0/1631371625382?e=1646809200&v=beta&t=VbysMUna3O49dpjWdinTCAkPKshCy5m9CuUh9G8Zj-E",
+            "name": "Transportation Science and Logistics",
+            "url": "https://www.linkedin.com/groups/1737097"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5107AQH2grRmnFebaw/group-logo_image-shrink_200x200/0/1631439651397?e=1646809200&v=beta&t=b6b3QFU0My3aofQxEffIrDDb-MbXuToM3UN9mf-juJc",
+            "name": "UofL Alumni Association (Official)",
+            "url": "https://www.linkedin.com/groups/78258"
+        },
+        {
+            "profile_pic_url": "https://static-exp1.licdn.com/sc/h/4h1ldzvvebtszyx75ve7dst1v",
+            "name": "Business Analyst Openings for MBA Experienced and Freshers.",
+            "url": "https://www.linkedin.com/groups/1911310"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5107AQFjkGhxPOguKg/group-logo_image-shrink_200x200/0/1631405445437?e=1646809200&v=beta&t=qhdqeCkOqPprrraX4TzLILJFQOOKpigCwPkHpzidE_Q",
+            "name": "JB Speed School of Engineering at the University of Louisville",
+            "url": "https://www.linkedin.com/groups/3722925"
+        },
+        {
+            "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQH6XPvACH8tcA/group-logo_image-shrink_92x92/0/1525123894294?e=1646809200&v=beta&t=40OkWy2fLWGxJQWG5ZMEyWFEk7s_cuWvAdnXw9DvISA",
+            "name": "Business Analyst Professional - BA, Analysis, Data Analyst, Data Scientist",
+            "url": "https://www.linkedin.com/groups/60878"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
